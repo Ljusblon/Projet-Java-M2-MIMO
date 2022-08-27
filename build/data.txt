@@ -1,0 +1,6 @@
+Arrêt 0 : 0 Entrées, 0 Sorties
+Arrêt 1 : 1 Entrées, 0 Sorties
+Arrêt 2 : 1 Entrées, 0 Sorties
+Arrêt 3 : 1 Entrées, 0 Sorties
+Arrêt 4 : 0 Entrées, 2 Sorties
+Arrêt 5 : 0 Entrées, 1 Sorties
